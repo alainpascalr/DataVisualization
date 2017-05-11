@@ -1,0 +1,355 @@
+{
+ "name": "Treaty",
+ "children": [
+  {
+   "name": "DEU",
+   "children": [
+    {
+     "name": "PAK",
+     "children": [
+      {"name": "(1959 , 0 , 1 , 0 , 1 , 0 , 1)", "size": 3938}
+     ]
+    },
+    {
+     "name": "MYS",
+     "children": [
+      {"name": "(1960,0,0,0,1,0,1)", "size": 3534}
+     ]
+    },
+    {
+     "name": "LBR",
+     "children": [
+      {"name": "(1961,0,1,0,1,0,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "CMR",
+     "children": [
+      {"name": "(1962,0,1,0,1,1,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "TUR",
+     "children": [
+      {"name": "(1962,0,1,0,1,1,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "LKA",
+     "children": [
+      {"name": "(1963,0,1,0,1,1,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "SDN",
+     "children": [
+      {"name": "(1963,0,1,0,1,0,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "ETH",
+     "children": [
+      {"name": "(1964,0,1,0,1,1,1)", "size": 7074}
+     ]
+    },
+    {
+     "name": "KOR",
+     "children": [
+      {"name": "(1964,0,1,0,1,0,1)", "size": 7074}
+     ]
+    },
+    {
+     "name": "IRN",
+     "children": [
+      {"name": "(1965,0,1,1,1,0,1)", "size": 7074}
+     ]
+    }
+    ,
+    {
+     "name": "SLE",
+     "children": [
+      {"name": "(1965,0,1,0,1,1,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "TZA",
+     "children": [
+      {"name": "(1965,0,1,0,1,1,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "UGA",
+     "children": [
+      {"name": "(1966,0,1,0,1,1,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "ZMB",
+     "children": [
+      {"name": "(1966,0,1,0,1,1,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "IDN",
+     "children": [
+      {"name": "(1968,0,1,0,1,1,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "MUS",
+     "children": [
+      {"name": "(1971,0,1,0,1,1,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "SGP",
+     "children": [
+      {"name": "(1973,0,1,0,1,0,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "EGY",
+     "children": [
+      {"name": "(1974,0,1,0,1,1,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "JOR",
+     "children": [
+      {"name": "(1974,0,1,0,1,1,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "MLT",
+     "children": [
+      {"name": "(1974,0,1,0,1,0,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "YEM",
+     "children": [
+      {"name": "(1974,0,1,0,1,1,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "ISR",
+     "children": [
+      {"name": "(1976,0,1,1,1,1,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "MLI",
+     "children": [
+      {"name": "(1977,0,1,0,1,0,1)", "size": 7074}
+     ]
+    },
+        {
+     "name": "SYR",
+     "children": [
+      {"name": "(1977,0,1,0,1,1,1)", "size": 7074}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "BEL",
+   "children": [
+    {
+     "name": "MAR",
+     "children": [
+      {"name": "(1965,1,0,0,1,0,0)", "size": 3938}
+     ]
+    },
+        {
+     "name": "IDN",
+     "children": [
+      {"name": "(1970,0,1,0,0,1,0)", "size": 3938}
+     ]
+    },
+    {
+     "name": "KOR",
+     "children": [
+      {"name": "(1974,1,0,1,0,1,0)", "size": 3938}
+     ]
+    },
+    {
+     "name": "EGY",
+     "children": [
+      {"name": "(1977,1,1,1,1,1,0)", "size": 3938}
+     ]
+    },
+    {
+     "name": "SGP",
+     "children": [
+      {"name": "(1978,1,0,1,1,1,0)", "size": 3938}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CHE",
+   "children": [
+        {
+     "name": "MLT",
+     "children": [
+      {"name": "(1965,0,0,0,1,0,0)", "size": 3938}
+     ]
+    },
+        {
+     "name": "KOR",
+     "children": [
+      {"name": "(1971,1,0,0,1,1,0)", "size": 3938}
+     ]
+    },
+        {
+     "name": "JOR",
+     "children": [
+      {"name": "(1976,1,0,0,1,0,0)", "size": 3938}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ITA",
+   "children": [
+    {
+     "name": "MLT",
+     "children": [
+      {"name": "(1967,0,0,0,1,0,0)", "size": 3938}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "DNK",
+   "children": [
+        {
+     "name": "IDN",
+     "children": [
+      {"name": "(1968,0,1,0,1,0,0)", "size": 3938}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "NLD",
+   "children": [
+        {
+     "name": "KEN",
+     "children": [
+      {"name": "(1970,1,0,0,1,1,0)", "size": 3938}
+     ]
+    },
+        {
+     "name": "SDN",
+     "children": [
+      {"name": "(1970,1,0,0,1,1,0)", "size": 3938}
+     ]
+    },
+        {
+     "name": "MYS",
+     "children": [
+      {"name": "(1971,1,0,1,1,1,0)", "size": 3938}
+     ]
+    },
+        {
+     "name": "SGP",
+     "children": [
+      {"name": "(1972,1,0,1,1,1,0)", "size": 3938}
+     ]
+    },
+        {
+     "name": "THA",
+     "children": [
+      {"name": "(1972,1,0,0,1,1,0)", "size": 3938}
+     ]
+    },
+        {
+     "name": "KOR",
+     "children": [
+      {"name": "(1974,1,0,0,1,1,0)", "size": 3938}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "HTI",
+   "children": [
+        {
+     "name": "DEU",
+     "children": [
+      {"name": "(1973,0,1,0,1,0,1)", "size": 3938}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "LBY",
+   "children": [
+    {
+     "name": "MLT",
+     "children": [
+      {"name": "(1973,0,0,0,1,0,0)", "size": 3938}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "GBR",
+   "children": [
+    {
+     "name": "EGY",
+     "children": [
+      {"name": "(1975,0,1,1,1,1,0)", "size": 3938}
+     ]
+    },
+    {
+     "name": "SGP",
+     "children": [
+      {"name": "(1975,0,1,1,1,1,0)", "size": 3938}
+     ]
+    },
+    {
+     "name": "IDN",
+     "children": [
+      {"name": "(1976,1,1,1,1,1,0)", "size": 3938}
+     ]
+    },
+    {
+     "name": "KOR",
+     "children": [
+      {"name": "(1976,1,1,1,1,1,0)", "size": 3938}
+     ]
+    },
+    {
+     "name": "ROU",
+     "children": [
+      {"name": "(1976,0,1,1,1,0,0)", "size": 3938}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "FRA",
+   "children": [
+    {
+     "name": "MLT",
+     "children": [
+      {"name": "(1976,0,0,0,1,1,0)", "size": 3938}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "JPN",
+   "children": [
+    {
+     "name": "EGY",
+     "children": [
+      {"name": "(1977,0,0,1,1,0,0)", "size": 3938}
+     ]
+    }
+   ]
+  }
+ ]
+}
